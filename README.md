@@ -6,9 +6,15 @@ I share knowledge about cloud, serverless or anything that might be useful for o
 
 I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute:  
 *  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
-*  [My twitter](https://twitter.com/m_azarboon)  
+*  [My twitter](https://twitter.com/m_azarboon)
 
-Here you can find my blog posts in chronological order:
+My open source contributions:
+*  [My contributions to offcial Azure documentation (in case the link doesn't work, you can search my merged PRs on MicrosoftDocs/azure-docs repo](https://github.com/MicrosoftDocs/azure-docs/pulls?q=azarboon+is%3Apr+is%3Amerged)
+*  [My contributions to Serverless content on Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon)
+*  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
+*  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate) P.S: unfortunately the repo owner deleted this :(
+
+My blog posts in chronological order:
 *   [Identity Federation Protocols: Difference and Use Cases (in AWS)](https://medium.com/faun/identity-federation-protocols-difference-and-use-cases-in-aws-571d71ca8664)
 *   [Difference Between Databases](https://faun.pub/demystifying-databases-systems-d0261937c494)
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
@@ -26,14 +32,10 @@ Here you can find my blog posts in chronological order:
 *  [Overcome X-Ray’s issue for Lambda debugging](https://hackernoon.com/overcome-x-rays-issue-for-debugging-892498b14346)
 
 
-Here you can find my open source prjects:
-*  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
-*  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate) P.S: unfortunately my previous employer that owned the repo deleted it :(
-
-Here you can find my flashcards that can help you get certfied:
+My flashcards that can help you get certfied:
 *  [Prepare for Oracle Cloud Foundation Associate Certificate](https://quizlet.com/_cyrt7j?x=1jqt&i=12swe9)
 
-Here are some of my conference talks:
+Some of my conference talks:
 *   [DevOps 2018](https://youtu.be/tLyBInc05Tc)
 *   AWS Community Day - Frankfurt 2018
 *   TechArch Day 2018
