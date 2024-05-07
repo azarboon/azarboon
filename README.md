@@ -9,7 +9,7 @@ I'm an avid reader, whenever I come across an interesting material, I share it w
 *  [My twitter](https://twitter.com/m_azarboon)
 
 My open source contributions:
-*  [My contributions to offcial Azure documentation (in case the link doesn't work, you can search my merged PRs on MicrosoftDocs/azure-docs repo](https://github.com/MicrosoftDocs/azure-docs/pulls?q=azarboon+is%3Apr+is%3Amerged)
+*  [My contributions to offcial Azure documentation](https://github.com/MicrosoftDocs/azure-docs/pulls?q=azarboon+is%3Apr+is%3Amerged). In case the link doesn't work, you can search my merged PRs on MicrosoftDocs/azure-docs repo.
 *  [My contributions to Serverless content on Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon)
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 *  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate) P.S: unfortunately the repo owner deleted this :(
