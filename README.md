@@ -1,20 +1,20 @@
 # Cloud and Serverless Evangelism by Mahdi Azarboon
 
-I share knowledge about cloud, serverless or anything that might be useful for others:
+I write content about Serverless and share best practices and insights with the community through various mediums:
 
 **Featured**: I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
-I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute:  
-*  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
-*  [My twitter](https://twitter.com/m_azarboon)
-
-My open source contributions:
-*  [My contributions to offcial Azure documentation](https://github.com/MicrosoftDocs/azure-docs/pulls?q=azarboon+is%3Apr+is%3Amerged). In case the link doesn't work, you can search my merged PRs on MicrosoftDocs/azure-docs repo.
+**My open source contributions and content development activities (I'm not employed by any of them)**:
+*  [My contributions to official Azure documentation](https://github.com/MicrosoftDocs/azure-docs/pulls?q=azarboon+is%3Apr+is%3Amerged). In case the link doesn't work, you can search my merged PRs on MicrosoftDocs/azure-docs repo.
 *  [My contributions to Serverless content on Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon)
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 *  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate) P.S: unfortunately the repo owner deleted this :(
 
-My blog posts in chronological order:
+**I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute**:  
+*  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
+*  [My twitter](https://twitter.com/m_azarboon)
+
+**My blog posts in chronological order**:
 *   [Identity Federation Protocols: Difference and Use Cases (in AWS)](https://medium.com/faun/identity-federation-protocols-difference-and-use-cases-in-aws-571d71ca8664)
 *   [Difference Between Databases](https://faun.pub/demystifying-databases-systems-d0261937c494)
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
@@ -31,11 +31,10 @@ My blog posts in chronological order:
 *   [Benchmarked Serverless observability tools, got very disappointed](https://hackernoon.com/benchmarked-serverless-observability-tools-got-very-disappointed-e54f5e3381bf)
 *  [Overcome X-Ray’s issue for Lambda debugging](https://hackernoon.com/overcome-x-rays-issue-for-debugging-892498b14346)
 
-
-My flashcards that can help you get certfied:
-*  [Prepare for Oracle Cloud Foundation Associate Certificate](https://quizlet.com/_cyrt7j?x=1jqt&i=12swe9)
-
-Some of my conference talks:
+**Some of my conference talks**:
 *   [DevOps 2018](https://youtu.be/tLyBInc05Tc)
 *   AWS Community Day - Frankfurt 2018
 *   TechArch Day 2018
+
+**My flashcards that can help you get certfied**:
+*  [Prepare for Oracle Cloud Foundation Associate Certificate](https://quizlet.com/_cyrt7j?x=1jqt&i=12swe9)
