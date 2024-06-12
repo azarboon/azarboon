@@ -3,7 +3,7 @@
 Here you can find list of my publications and contributions:
 
 **Featured**: 
-- My point-of-view about distributed architecture was published in the first page of [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/). Here is the link to [my pull request](https://github.com/MicrosoftDocs/architecture-center/pull/4458)
+- I've had a number of contributions to [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/). Notably, I've contributed to their main page for [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and to their main page for [Architecture Styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
 **My open source contributions**:
