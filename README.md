@@ -3,10 +3,11 @@
 Here you can find list of my publications and contributions:
 
 **Featured**: 
-- I've had [+12 contributions](https://github.com/MicrosoftDocs/architecture-center/pulls?q=is%3Amerged+author%3Aazarboon+) to [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/). Notably, I've contributed to their main page for [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and to their main page for [Architecture Styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
+- My architectural point-of-views have been published in main pages of [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) (among others): in their main page for [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and in their main page for [Architecture Styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
 **My open source contributions**:
+* I've had [+16 contributions](https://github.com/MicrosoftDocs/architecture-center/pulls?q=is%3Amerged+author%3Aazarboon+) to [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/).
 *  [+43 accepted pull requests to official Azure documentations](https://github.com/search?q=org%3AMicrosoftDocs++is%3Amerged+author%3Aazarboon&type=pullrequests&s=created&o=desc). In case the link doesn't work, you can search all my merged pull requests on [MicrosoftDocs account in Github](https://github.com/MicrosoftDocs).
 *  I write about serverless on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my profile and contributions.
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
