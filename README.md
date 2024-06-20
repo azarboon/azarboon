@@ -3,7 +3,7 @@
 Here you can find list of my publications and contributions:
 
 **Featured**: 
-- My architectural point-of-views have been published in main pages of [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) (among others): in their main page for [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and in their main page for [Architecture Styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
+- My architectural point-of-views have been published in main pages of [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) (among other pages): in their main page for [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and in their main page for [Architecture Styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
 **My open source contributions**:
