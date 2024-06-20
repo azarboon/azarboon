@@ -7,9 +7,9 @@ Here you can find list of my publications and contributions:
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
 **My open source contributions**:
-* [+4 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+repo%3Aaws-observability%2Fcdk-aws-observability-accelerator+repo%3Aawsdocs%2Famazon-eks-user-guide&type=pullrequests) pull requests to official AWS documentation and its official repositories.
-* [+16 accepted](https://github.com/MicrosoftDocs/architecture-center/pulls?q=is%3Amerged+author%3Aazarboon+) pull requests  to [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/).
 * [+58 accepted](https://github.com/search?q=org%3AMicrosoftDocs++is%3Amerged+author%3Aazarboon&type=pullrequests&s=created&o=desc) pull requests to official Azure documentations. In case the link doesn't work, you can search all my merged pull requests on [MicrosoftDocs account in Github](https://github.com/MicrosoftDocs).
+* [+16 accepted](https://github.com/MicrosoftDocs/architecture-center/pulls?q=is%3Amerged+author%3Aazarboon+) pull requests  to [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/).
+* [+4 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+repo%3Aaws-observability%2Fcdk-aws-observability-accelerator+repo%3Aawsdocs%2Famazon-eks-user-guide&type=pullrequests) pull requests to official AWS documentation and its official repositories.
 *  I write about serverless on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my profile and contributions.
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 *  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate) P.S: unfortunately the repo owner deleted this :(
