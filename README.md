@@ -9,7 +9,7 @@ Here you can find list of my publications and contributions:
 **My open source contributions**:
 * [+75 accepted](https://github.com/search?q=is%3Amerged+author%3Aazarboon+org%3AMicrosoftDocs+org%3Adotnet&type=pullrequests&s=created&o=desc) pull requests to official Azure documentations. In case the link doesn't work, you can search all my merged pull requests on [MicrosoftDocs account in Github](https://github.com/MicrosoftDocs).
 * [+16 accepted](https://github.com/MicrosoftDocs/architecture-center/pulls?q=is%3Amerged+author%3Aazarboon+) pull requests  to [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/).
-* [5 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests) pull requests in various official AWS documentations and repositories.
+* [5 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests&s=created&o=desc) pull requests in various official AWS documentations and repositories.
 *  I write about serverless on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my profile and contributions.
 *  Tricky tips for AWS Solutions Architect Associate certificate  [(concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 *  [Boilerplate](https://github.com/eficode/serverless-ops-boilerplate) to create Serverless app powered with CI/CD P.S: unfortunately the repo owner deleted this :(
