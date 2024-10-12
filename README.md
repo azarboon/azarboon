@@ -6,16 +6,16 @@ Here you can find list of my publications and contributions:
 - My architectural point-of-views have been published in main pages of [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) (among other pages): in their main page for [Cloud Design Patterns](https://learn.microsoft.com/azure/architecture/patterns/) and in their main page for [Architecture Styles](https://learn.microsoft.com/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
 - I've added best practices for implementing serverless CI/CD pipelines in [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/organizations/accounts/organization-management?view=azure-devops). [Here](https://github.com/MicrosoftDocs/azure-devops-docs/pull/14147) is the corresponding PR.
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)
-- I've contributed to official Kubernetes documentation. [here](https://github.com/kubernetes/website/pull/48299#event-14616856651) is the PR.
 
 **My open source contributions**:
 * [+106 accepted](https://github.com/search?q=is%3Amerged+author%3Aazarboon+org%3AMicrosoftDocs+org%3Adotnet&type=pullrequests&s=created&o=desc) pull requests to official Azure documentations. In case the link doesn't work, you can search all my merged pull requests on [MicrosoftDocs account in Github](https://github.com/MicrosoftDocs).
 * [+34 accepted](
 https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc) pull requests  to [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/).
 * [5 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests&s=created&o=desc) pull requests in various official AWS documentations and repositories.
-*  I write about serverless on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my profile and contributions.
-*  Tricky tips for AWS Solutions Architect Associate certificate  [(concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
-*  [Boilerplate](https://github.com/eficode/serverless-ops-boilerplate) to create Serverless app powered with CI/CD P.S: unfortunately the repo owner deleted this :(
+* [Here](https://github.com/kubernetes/website/pull/48299#event-14616856651) is my accepted PR to official [Kubernetes](https://kubernetes.io/docs/home/) documentation. 
+* I write about serverless on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my profile and contributions.
+* Tricky tips for AWS Solutions Architect Associate certificate  [(concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
+* [Boilerplate](https://github.com/eficode/serverless-ops-boilerplate) to create Serverless app powered with CI/CD P.S: unfortunately the repo owner deleted this :(
 
 **I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute**:  
 *  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
