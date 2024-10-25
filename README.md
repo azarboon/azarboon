@@ -12,7 +12,7 @@ Here you can find list of my publications and contributions:
 * [+34 accepted](
 https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc) pull requests  to [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/).
 * [5 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests&s=created&o=desc) pull requests in various official AWS documentations and repositories.
-* [Here](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests) you can find my accepted code fixes in [Terraform Registry](https://registry.terraform.io/providers/hashicorp/azurerm/latest).
+* [Here](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests) you can find my accepted bug fixes in official [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest).
 * [Here](https://github.com/kubernetes/website/pull/48299) is my accepted PR to official [Kubernetes](https://kubernetes.io/docs/home/) documentation. 
 * I write about serverless on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my profile and contributions.
 * Tricky tips for AWS Solutions Architect Associate certificate  [(concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
