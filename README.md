@@ -3,13 +3,14 @@
 Here you can find list of my publications and contributions:
 
 **Featured**: 
-- My architectural point-of-views have been published in main pages of [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) (among other pages): in their main page for [Cloud Design Patterns](https://learn.microsoft.com/azure/architecture/patterns/) and in their main page for [Architecture Styles](https://learn.microsoft.com/azure/architecture/guide/architecture-styles/). [Here](https://github.com/MicrosoftDocs/architecture-center/pull/4458) and [here](https://github.com/MicrosoftDocs/architecture-center/pull/4466#event-13137519899) you can see the corresponding pull requests, respectively.
+- My architectural point-of-views have been [published](
+https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc) in [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/)
 - I've added best practices for implementing serverless CI/CD pipelines in [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/organizations/accounts/organization-management?view=azure-devops). [Here](https://github.com/MicrosoftDocs/azure-devops-docs/pull/14147) is the corresponding PR.
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)
 
 **My open source contributions**:
 * [+106 accepted](https://github.com/search?q=is%3Amerged+author%3Aazarboon+org%3AMicrosoftDocs+org%3Adotnet&type=pullrequests&s=created&o=desc) pull requests to official Azure documentations. In case the link doesn't work, you can search all my merged pull requests on [MicrosoftDocs account in Github](https://github.com/MicrosoftDocs).
-* [+34 accepted](
+* [+44 accepted](
 https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc) pull requests  to [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/).
 * [5 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests&s=created&o=desc) pull requests in various official AWS documentations and repositories.
 * [Here](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests) you can find my accepted bug fixes in official [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest).
