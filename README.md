@@ -6,7 +6,7 @@ Here you can find list of my publications and contributions:
 
 - [+44 of my](
 https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc) architectural suggestions have been published in  [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/).
-- I've added best practices for implementing serverless CI/CD pipelines in [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/organizations/accounts/organization-management?view=azure-devops). [Here](https://github.com/MicrosoftDocs/azure-devops-docs/pull/14147) is the corresponding PR.
+- [Three of my](https://github.com/MicrosoftDocs/azure-devops-docs/pulls?q=is%3Apr+is%3Amerged+author%3Aazarboon+sort%3Acreated-desc) suggestions for enhancing serverless CI/CD pipelines are published in the official [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/organizations/accounts/organization-management?view=azure-devops).
 - I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)
 
 **My open source contributions**:
