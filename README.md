@@ -23,6 +23,7 @@ https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2
 *  [My twitter](https://twitter.com/m_azarboon)
 
 **My blog posts in chronological order**:
+*   [Decoding the Cloud: A Decade of Evolution Through Official Standards](https://dev.to/m_azarboon/decoding-the-cloud-a-decade-of-evolution-through-official-standards-ic8)
 *   [Identity Federation Protocols: Difference and Use Cases (in AWS)](https://medium.com/faun/identity-federation-protocols-difference-and-use-cases-in-aws-571d71ca8664)
 *   [Difference Between Databases](https://faun.pub/demystifying-databases-systems-d0261937c494)
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
