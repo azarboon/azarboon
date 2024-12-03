@@ -12,7 +12,7 @@ https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2
 
 **My open source contributions**:
 * Enhanced Microsoft Azure documentation with [+132 approved](https://github.com/search?q=is%3Amerged+author%3Aazarboon+org%3AMicrosoftDocs+org%3Adotnet&type=pullrequests&s=created&o=desc) contributions.
-* [Here](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc) are my accepted bug fixes, officially integrated into [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest).
+* Integrated [+4 bug fixes](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc) and enhancements into Terraform
 * Enhanced [Kubernetes](https://kubernetes.io/docs/home/) documentation with approved contribution: [link to PR](https://github.com/kubernetes/website/pull/48299)
 * [Here](https://github.com/search?q=org%3Aadr+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc) you can find my contributions to [Architectural Decision Records](https://adr.github.io) 
 * I write about serverless,cloud computing and architecture on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my contributions.
