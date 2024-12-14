@@ -19,9 +19,8 @@ https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2
 * Tricky tips for AWS Solutions Architect Associate certificate  [(concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 * [Boilerplate](https://github.com/eficode/serverless-ops-boilerplate) to create Serverless app powered with CI/CD P.S: unfortunately the repo owner deleted this :(
 
-**I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute**:  
-*  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
-*  [My twitter](https://twitter.com/m_azarboon)
+**Instructional Projects for Cloud and Serverless**
+* [Sample Serverless Application on Azure: Integration Between Function App and API Management with Terraform](https://github.com/azarboon/terraform-tutorial-serverless)
 
 **My blog posts in chronological order**:
 *   [Decoding the Cloud: A Decade of Evolution Through Official Standards](https://dev.to/m_azarboon/decoding-the-cloud-a-decade-of-evolution-through-official-standards-ic8)
@@ -41,10 +40,12 @@ https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2
 *   [Benchmarked Serverless observability tools, got very disappointed](https://hackernoon.com/benchmarked-serverless-observability-tools-got-very-disappointed-e54f5e3381bf)
 *  [Overcome X-Ray’s issue for Lambda debugging](https://hackernoon.com/overcome-x-rays-issue-for-debugging-892498b14346)
 
+
 **Some of my conference talks**:
 *   [DevOps 2018](https://youtu.be/tLyBInc05Tc)
 *   AWS Community Day - Frankfurt 2018
 *   TechArch Day 2018
 
-**My flashcards that can help you get certfied**:
-*  [Prepare for Oracle Cloud Foundation Associate Certificate](https://quizlet.com/_cyrt7j?x=1jqt&i=12swe9)
+**I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute**:  
+*  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
+*  [My twitter](https://twitter.com/m_azarboon)
