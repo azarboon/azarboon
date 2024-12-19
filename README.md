@@ -1,23 +1,19 @@
-# Mahdi Azarboon
+# Mahdi Azarboon's Publications and Contributions
 
-Here you can find list of my publications and contributions:
+Here is a list of my publications and contributions across various platforms and domains:
 
-**Featured**: 
+- Authored [44+ architectural suggestions](https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc), published in the [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and the [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/).
+- Contributed [141+ approved enhancements](https://github.com/search?q=is%3Amerged+author%3Aazarboon+org%3AMicrosoftDocs+org%3Adotnet&type=pullrequests&s=created&o=desc) to Microsoft Azure documentation.
+- Featured guest on the [Serverless Chats podcast](https://www.serverlesschats.com/103/), episode #103, discussing serverless development differences between AWS and Azure.
+- Published [3+ improvements](https://github.com/MicrosoftDocs/azure-devops-docs/pulls?q=is%3Apr+is%3Amerged+author%3Aazarboon+sort%3Acreated-desc) for enhancing serverless CI/CD pipelines in the [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/organizations/accounts/organization-management).
+- Contributed [5 accepted pull requests](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests&s=created&o=desc) to the AWS ecosystem across official documentation and repositories.
+- Integrated [6+ bug fixes and enhancements](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc) into Terraform projects.
+- Enhanced the [Kubernetes documentation](https://kubernetes.io/docs/home/) with an [approved contribution](https://github.com/kubernetes/website/pull/48299).
+- Contributed to the [Architectural Decision Records (ADR)](https://adr.github.io) initiative, with my [accepted contributions listed here](https://github.com/search?q=org%3Aadr+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc).
+- Authored articles on serverless computing, cloud architecture, and related topics on Wikipedia. See my [Wikipedia contributions here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon).
+- Created a concise study guide for the AWS Solutions Architect Associate certification: [Tricky Tips Cheat Sheet](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md).
+- Developed a [Serverless app boilerplate](https://github.com/eficode/serverless-ops-boilerplate) powered by CI/CD. *(Note: This repository was deleted by the owner.)*
 
-* [+44 of my](
-https://github.com/search?q=is%3Amerged+author%3Aazarboon+repo%3AMicrosoftDocs%2Farchitecture-center+repo%3AMicrosoftDocs%2Fwell-architected&type=pullrequests&s=created&o=desc) architectural suggestions have been published in  [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) and [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/).
-* Enhanced Microsoft Azure documentation with [+141 approved](https://github.com/search?q=is%3Amerged+author%3Aazarboon+org%3AMicrosoftDocs+org%3Adotnet&type=pullrequests&s=created&o=desc) contributions.
-* I was invited to appear on the [Serverless Chats podcast](https://www.serverlesschats.com/103/), episode #103, to discuss the differences in serverless development between AWS and Azure.
-* Over [three](https://github.com/MicrosoftDocs/azure-devops-docs/pulls?q=is%3Apr+is%3Amerged+author%3Aazarboon+sort%3Acreated-desc) of my suggestions for enhancing serverless CI/CD pipelines have been published in [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/organizations/accounts/organization-management).
-* Contributed to AWS ecosystem with [5 accepted](https://github.com/search?q=author%3Aazarboon+is%3Amerged+org%3Aaws-observability+org%3Aawsdocs+org%3Aaws&type=pullrequests&s=created&o=desc) pull requests across official documentation and repositories.
-
-**My open source contributions**:
-* Integrated [+4 bug fixes](https://github.com/search?q=org%3Ahashicorp+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc) and enhancements into Terraform
-* Enhanced [Kubernetes](https://kubernetes.io/docs/home/) documentation with approved contribution: [link to PR](https://github.com/kubernetes/website/pull/48299)
-* [Here](https://github.com/search?q=org%3Aadr+author%3Aazarboon+is%3Amerged&type=pullrequests&s=created&o=desc) you can find my contributions to [Architectural Decision Records](https://adr.github.io) 
-* I write about serverless,cloud computing and architecture on Wikipedia. [Here](https://en.wikipedia.org/wiki/Special:Contributions/Azarboon) you can see my contributions.
-* Tricky tips for AWS Solutions Architect Associate certificate  [(concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
-* [Boilerplate](https://github.com/eficode/serverless-ops-boilerplate) to create Serverless app powered with CI/CD P.S: unfortunately the repo owner deleted this :(
 
 **Instructional Projects for Cloud and Serverless**
 * [Sample Serverless Application on Azure: Integration Between Function App and API Management with Terraform](https://github.com/azarboon/terraform-tutorial-serverless)
