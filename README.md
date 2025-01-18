@@ -27,7 +27,7 @@ Here is a list of my publications and contributions across various platforms and
 *   [Unit Test Serverless Applications The DevOps Way -Part 2](https://medium.com/@azarboon/unit-test-serverless-applications-the-devops-way-part-2-aae59f05a32c)
 *   [Unit Test Serverless Applications The DevOps Way -Part 1](https://medium.com/@azarboon/unit-test-serverless-applications-the-devops-way-d7897944646c)
 *   [Demystifying Lambda in VPC and Its Confusing Error](https://dzone.com/articles/demystifying-lambda-in-vpc-and-its-confusing-error)
-*   [What AWS Lambda Users Should Know About Azure Functions, and Vice Versa.](https://serverless.zone/what-aws-lambda-users-should-know-about-azure-functions-and-vice-versa-3b04f8aa05a0)
+*   [What AWS Lambda Users Should Know About Azure Functions, and Vice Versa.](https://medium.com/serverless-zone/what-aws-lambda-users-should-know-about-azure-functions-and-vice-versa-3b04f8aa05a0)
 *   [Lessons Learned From a Legacy Serverless App](https://dzone.com/articles/lessons-learnt-from-a-legacy-serverless-app)
 *   [How to integrate an Amazon Lex chatbot with Facebook Messenger](https://medium.com/a-cloud-guru/how-to-integrate-an-amazon-lex-chatbot-with-facebook-messenger-84a3ac84161)
 *   [Worrying and promising signals from serverless community (of Germany?)](https://hackernoon.com/worrying-and-promising-signals-from-serverless-community-of-germany-1d92a2db8e2c)
