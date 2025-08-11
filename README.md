@@ -12,7 +12,7 @@ Here is a list of my publications and contributions across various platforms and
 
 
 **Instructional Projects for Cloud and Serverless**
-* [AI-Powered Serverless Boilerplate with AWS CDK and TypeScript Following Best Practices](https://github.com/azarboon/amazon-q-integration-app)
+* [AI-Powered Serverless Boilerplate with AWS CDK and TypeScript Following Best Practices](https://github.com/azarboon/ai-powered-cdk-best-practices)
 * [Sample Serverless Application on Azure: Integration Between Function App and API Management with Terraform](https://github.com/azarboon/terraform-tutorial-serverless)
 
 **My blog posts in chronological order**:
