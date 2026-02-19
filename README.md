@@ -16,6 +16,7 @@ Here is a list of my publications and contributions across various platforms and
 * [Sample Serverless Application on Azure: Integration Between Function App and API Management with Terraform](https://github.com/azarboon/terraform-tutorial-serverless)
 
 **My blog posts in chronological order**:
+*   [Revisiting Microservices Architectural Characteristic Ratings in “Fundamentals of Software Architecture”](https://medium.com/gitconnected/revisiting-microservices-architectural-characteristic-ratings-in-fundamentals-of-software-5fc06b37ccc0)
 *   [Serverless Development with Gen‑AI: Lessons from Amazon Q Developer CLI](https://medium.com/towards-aws/serverless-development-with-gen-ai-lessons-from-amazon-q-developer-cli-05e279c6a392). This blog post was referenced in Off-by-None newsletter issue [#340](https://offbynone.io/issues/340/)
 *   [AWS Lambda vs. Azure Functions: Key Differences and Considerations](https://medium.com/towards-aws/aws-lambda-vs-azure-functions-key-differences-and-considerations-8792b9bd9abc). This blog post was referenced in Off-by-None newsletter issue [#313](https://offbynone.io/issues/313/)
 *   [Decoding the Cloud: A Decade of Evolution Through Official Standards](https://medium.com/@azarboon/decoding-the-cloud-a-decade-of-evolution-through-official-standards-ad06e13eeeb7)
